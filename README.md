@@ -31,11 +31,11 @@ O fluxo segue a arquitetura **Medalhão (Bronze - Silver - Gold)**:
 - **Camada Gold:** modelagem estrela com tabelas fato e dimensões.  
 - **Integração externa:** incorporação das áreas territoriais oficiais do IBGE (2024) para cálculo de indicadores proporcionais.
 
-<img width="3552" height="1666" alt="image" src="https://github.com/lauragonzaga/MVP-Engenharia-de-Dados/blob/main/diagrama_ER.png?raw=true" />
+<img width="3552" height="1666" alt="Diagrama ER" src="https://github.com/lauragonzaga/MVP-Engenharia-de-Dados/blob/main/diagrama_ER.png?raw=true" />
 
 ---
 
-## [Dashboard Interativo](https://dbc-b08da042-4e74.cloud.databricks.com/dashboardsv3/01f0d08344e91b4791a28f4d268be1dd/published?o=1041144495999733)
+## Dashboard Interativo
 
 - KPIs principais de área desmatada total e nativa (em hectares e proporção sobre o estado).  
 - Evolução temporal (1987–2024) do desmatamento total e por bioma.  
@@ -43,8 +43,9 @@ O fluxo segue a arquitetura **Medalhão (Bronze - Silver - Gold)**:
 - Comparativo entre supressão de vegetação primária e secundária.
 - Permite filtragem por faixa de anos e por estados.
 
-<img width="3552" height="1666" alt="image" src="https://github.com/user-attachments/assets/4431148c-214f-4d94-97a9-c6f6f3c72803" />
-
+<a href="https://dbc-b08da042-4e74.cloud.databricks.com/dashboardsv3/01f0d08344e91b4791a28f4d268be1dd/published?o=1041144495999733.html">
+  <img width="3552" height="1666" alt="Dashboard" src="https://github.com/user-attachments/assets/4431148c-214f-4d94-97a9-c6f6f3c72803" />
+</a>
 
 
 ---
